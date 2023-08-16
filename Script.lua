@@ -1,5 +1,5 @@
 local args = {
-    [1] = "dsc.gg/Flips -> join now",
+    [1] = "dsc.gg/Flips -> VERY CHEAP mm2 shop",
     [2] = "All"
 }
 
